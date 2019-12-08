@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "pako": "^1.0.6",
-    "pdfjs-dist": "^2.0.489",
+    "pdfjs-dist": "https://github.com/mozilla/pdfjs-dist/archive/v2.3.200.tar.gz",
     "promise-queue": "^2.2.5"
   },
   "devDependencies": {
